@@ -1,1 +1,5 @@
-ls
+ls pow
+
+
+pow1 
+pow2
